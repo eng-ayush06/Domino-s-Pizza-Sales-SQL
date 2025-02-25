@@ -20,6 +20,9 @@ The dataset consists of multiple tables:
 ## 🛠️ Technologies Used
 SQL (for data extraction and analysis)\
 Data Visualization using Excel
+
+![Image](https://github.com/user-attachments/assets/9706602f-207d-4906-86c4-b832d5ce1883)
+
 ## 📢 Conclusion
 This project demonstrates how SQL can be leveraged for business analytics, providing valuable insights into customer preferences, sales trends, and operational efficiency.
 
